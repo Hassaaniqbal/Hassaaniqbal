@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassaan Iqbal</h1>
-<h3 align="center">Passionate in fullstack development</h3>
+<h3 align="center">Passionate in backend development</h3>
 
 <img align="right" alt="coding" width="400" src="./consistent.png" alt="consistent" />
 
